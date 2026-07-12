@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_normal.wav",
+  "soundFile":"snd_normal.mp3",
   "volume":1.0,
 }
